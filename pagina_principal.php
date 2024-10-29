@@ -86,7 +86,7 @@
         <h2>Grupos de Grado 11</h2>
         <p>Información sobre los grupos de grado 11.</p>
         <div class="grupos">
-            <a href="#111">11-1</a>
+            <a href="once_uno.php">11-1</a>
             <a href="#112">11-2</a>
             <a href="#113">11-3</a>
             <a href="#114">11-4</a>
