@@ -71,7 +71,8 @@
                 <li><a href="#especialidades">Especialidades</a></li>
                 <li><a href="#destacados">Estudiantes Destacados</a></li>
                 <li><a href="#bicentenario">Bicentenario</a></li>
-                <li><a href="#registro">Registro / Ingreso</a></li>
+                <li>
+                <a href="index.php">Ir a la Página de Contacto</a>
             </ul>
         </nav>
     </header>
@@ -110,7 +111,7 @@
         <div class="destacados">
             <div class="estudiante">Estudiante 1</div>
             <div class="estudiante">Estudiante 2</div>
-            <!-- Más estudiantes -->
+          
         </div>
     </section>
     <section id="bicentenario">
